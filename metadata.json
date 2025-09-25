@@ -1,0 +1,5 @@
+{
+  "name": "Modern POS System",
+  "description": "A sleek and intuitive Point of Sale (POS) system built with React and Tailwind CSS. It allows users to browse products, manage an order cart, and process payments, simulating a real-world cafe or retail checkout experience.",
+  "requestFramePermissions": []
+}
